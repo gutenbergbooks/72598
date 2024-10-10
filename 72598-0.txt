@@ -1,7 +1,3 @@
-
-
-
-
                     BOOKS BY PROF. JOHN C. VAN DYKE
 
 
@@ -4524,5 +4520,3 @@ schools and colleges.”—_Springfield Union._
     ○ Text that:
       was in italics is enclosed by underscores (_italics_);
       was in bold by is enclosed by “equal” signs (=bold=).
-
-
